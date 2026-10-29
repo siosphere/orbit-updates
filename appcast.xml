@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Orbit updates</title>
     <item>
+      <title>Orbit 2026.10.29.2035</title>
+      <pubDate>Thu, 29 Oct 2026 20:35:00 +0000</pubDate>
+      <sparkle:version>202610292035</sparkle:version>
+      <sparkle:shortVersionString>2026.10.29.2035</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202610292035</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610292035/Orbit-202610292035.zip" length="156066274" type="application/octet-stream" sparkle:edSignature="jkhUqv51T10gXzZWjgqMI/Lymd6BrqbR5XqSngoZSWhPuo//2B48mbccOGkGO8d9u3SdzN5lMBua3ErXjV9tDA=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610292035/Orbit-202610292035-from-202610290627.delta" length="929770" type="application/octet-stream" sparkle:deltaFrom="202610290627" sparkle:edSignature="q0NDLZKoVfJUtB/lvrG5yS6hIz2dT4OXaYLBnnhR1n7uPA7kjVfYMVqK0vFxnJab9gvHpZ+6HrfmNHj+xf1UCg=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610292035/Orbit-202610292035-from-202610282252.delta" length="1295678" type="application/octet-stream" sparkle:deltaFrom="202610282252" sparkle:edSignature="qVgYrt4iNW+CTjwJLsn3jlpQILhRZ5YuE8dp7wmlw7Njytswgz3Lg328vBgHxGso82tpDxuDKDhckNaK8ltlCg=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610292035/Orbit-202610292035-from-202610281850.delta" length="2003162" type="application/octet-stream" sparkle:deltaFrom="202610281850" sparkle:edSignature="ygzQgavH8S5s7gIi+iDjrYfkYHVy6jYJTPBWedqkj52+DiwolYlzZqO5EQK2kcy2q3QuWp4I5mjxrjK/zHbqCw=="></enclosure>
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Orbit 2026.10.29.0627</title>
       <pubDate>Thu, 29 Oct 2026 06:27:00 +0000</pubDate>
       <sparkle:version>202610290627</sparkle:version>
@@ -93,6 +107,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: wxDN4f2RFbEst34Vb5BHo6b3MDnlPfjcD3olC0ksyQGcxjVISFUjgfV0VkrGi7pt+8fqkFnrB1+y6AAH6+MCBg==
-length: 8361
+edSignature: kWJkUhCuwJtFMfUo0NZQYcKeEyvxHkv8JpATT9exABestrXldKd/SXNY48SjBMaY0fYrBB4512Go+wD6t2l0Bw==
+length: 10207
 -->
