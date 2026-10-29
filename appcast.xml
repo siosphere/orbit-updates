@@ -4,6 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Orbit updates</title>
     <item>
+      <title>Orbit 2026.10.29.0627</title>
+      <pubDate>Thu, 29 Oct 2026 06:27:00 +0000</pubDate>
+      <sparkle:version>202610290627</sparkle:version>
+      <sparkle:shortVersionString>2026.10.29.0627</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202610290627</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610290627/Orbit-202610290627.zip" length="156044370" type="application/octet-stream" sparkle:edSignature="uvzomHCB4uX1nzz30TdKj4a4w4C+NzWnEJ9OLSB21Xc1LV0GwVk3oyY+i2bwnM6RGa57XivmwCHPWdXXhKluAQ=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610290627/Orbit-202610290627-from-202610282252.delta" length="1211714" type="application/octet-stream" sparkle:deltaFrom="202610282252" sparkle:edSignature="mUPhwXVrl9GV7P8d7FHJoQDv3gggfpmetJgo/ozGWzXVN+tZfSs5kxQVdh/DSOEU/yCf0+GtoHfRB8UTCC9qAg=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610290627/Orbit-202610290627-from-202610281850.delta" length="1998206" type="application/octet-stream" sparkle:deltaFrom="202610281850" sparkle:edSignature="JTXfLMRm4Eo58eIECoKPnpp+reE3b4+jCxyKUpElumeYXWA7u72zQesRZpIvkP+CVKT3bruqnNAjD/BSsOjDAA=="></enclosure>
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Orbit 2026.10.28.2252</title>
       <pubDate>Wed, 28 Oct 2026 22:52:00 +0000</pubDate>
       <sparkle:version>202610282252</sparkle:version>
@@ -80,6 +93,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vV5yyD8t3uwRVv/Q2TtFe09Gv4KCk+NXcfYAZgMLVV4CHZU61iIOWYLCWxvhz11IAxBuc0R0GQXP2KP/bxdmAg==
-length: 6863
+edSignature: wxDN4f2RFbEst34Vb5BHo6b3MDnlPfjcD3olC0ksyQGcxjVISFUjgfV0VkrGi7pt+8fqkFnrB1+y6AAH6+MCBg==
+length: 8361
 -->
