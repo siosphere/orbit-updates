@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Orbit updates</title>
     <item>
+      <title>Orbit 2026.10.30.2240</title>
+      <pubDate>Fri, 30 Oct 2026 22:40:00 +0000</pubDate>
+      <sparkle:version>202610302240</sparkle:version>
+      <sparkle:shortVersionString>2026.10.30.2240</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202610302240</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610302240/Orbit-202610302240.zip" length="156239680" type="application/octet-stream" sparkle:edSignature="ZQhkeQIB3y4jTAOLjWhtIeAxBJkI1ZqJLYBqZOUrlnEryO108LFQ0ye3GCGFC5ia7T4sdX4XvJ0Znuikide8Bg=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610302240/Orbit-202610302240-from-202610302044.delta" length="1089030" type="application/octet-stream" sparkle:deltaFrom="202610302044" sparkle:edSignature="90XukfC5FjKDvQ9/iSL/9x7O04gPYC2KRP3qS1zQco3EJqf92PT3dO/a/lqIgO7dDx1qy+XWJtjMGEma6ii6Bg=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610302240/Orbit-202610302240-from-202610301813.delta" length="4024714" type="application/octet-stream" sparkle:deltaFrom="202610301813" sparkle:edSignature="Bo0dpru2tryvm0z+/KbgDNyGZhuvoYKQUkZtu6iYp8vGodpS2kWNAWXft+5N2bA3gN90CoxEwu9SwStg9aDFDQ=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610302240/Orbit-202610302240-from-202610300122.delta" length="4098562" type="application/octet-stream" sparkle:deltaFrom="202610300122" sparkle:edSignature="nm8GjkOpohZOjDQmHWVQsmOOZcUpSWOeh4FKLiYlH02ciVJh8bIxIygexr9WF5Le00sVLpDacVwWJ/Bnfv89AQ=="></enclosure>
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Orbit 2026.10.30.2044</title>
       <pubDate>Fri, 30 Oct 2026 20:44:00 +0000</pubDate>
       <sparkle:version>202610302044</sparkle:version>
@@ -111,17 +125,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202610281505</sparkle:releaseNotesLink>
       <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610281505/Orbit-202610281505.zip" length="155407918" type="application/octet-stream" sparkle:edSignature="BGTFTOEBRXchdM6HVPF+tsSx3cS/YHCxjQh3PjGEjyn5WRbDed2giVGjrDVA4Dih3QUqYseoLRDp/t8eEBkwDQ=="></enclosure>
     </item>
-    <item>
-      <title>Orbit 2026.10.28.0500</title>
-      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-      <sparkle:version>202610280500</sparkle:version>
-      <sparkle:shortVersionString>2026.10.28.0500</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202610280500</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610280500/Orbit-202610280500.zip" length="238528457" type="application/octet-stream" sparkle:edSignature="kU9JEwwHxuqWZuScbyH1+zKoWjCWcC7pYc0vcFqCZIE67YAiEQV0BdpW3P1EB+HIXfrThLmE+PEX4gXp4W+ADw=="></enclosure>
-    </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: hCKuhYU9ffEattfUJU+QVZxawxJOK29Po9gLZWO7meYFeZ3aj2fU1E1W1SLyw30RI+Br+jKDsGKPLvAda6FsCQ==
-length: 13489
+edSignature: TPC24qR9dSVIASZnxcDNngPqkhaRJqRBr3b1RXSbCGPXLCvR7qn/zv4uE4uJ3nLXIpuXQpV/FFpHjCbVyC9XDQ==
+length: 14583
 -->
