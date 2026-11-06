@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:orbit="https://github.com/siosphere/orbit/appcast" version="2.0">
   <channel>
     <title>Orbit updates</title>
+    <item>
+      <title>Orbit 2026.11.6.1129</title>
+      <pubDate>Fri, 06 Nov 2026 11:29:00 +0000</pubDate>
+      <sparkle:version>202611061129</sparkle:version>
+      <sparkle:shortVersionString>2026.11.6.1129</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611061129</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611061129/Orbit-202611061129.zip" length="159488080" type="application/octet-stream" sparkle:edSignature="tHI/vU6MGBQfMq7xE7gOpV1RjSU82oHFR5RYCjKRFqntn4I6OGg3PiKL9yPd89CGqnVdrKEAFO2zXZXvspizAA=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611061129/Orbit-202611061129-from-202611060149.delta" length="2135962" type="application/octet-stream" sparkle:deltaFrom="202611060149" sparkle:edSignature="BY7pRyc98s8lapNiBOP+fJ17rkxt0hOV3V+hDKHgzJHZrMfTqUW4EVf8dcBqi1iebylHf1wXK9kK7OQMz5P+Aw=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611061129/Orbit-202611061129-from-202611051131.delta" length="2654410" type="application/octet-stream" sparkle:deltaFrom="202611051131" sparkle:edSignature="MrPcFS7iiG+sE0utNkAzLDW2r8Y6FUNmHwlXUjkfghYY4RZaBoUXjDeSehUR2FisO+DYdGRKb4WjCoERTzDsAg=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611061129/Orbit-202611061129-from-202611050148.delta" length="2691906" type="application/octet-stream" sparkle:deltaFrom="202611050148" sparkle:edSignature="LNLKhikFHiblEqnV4GGwUCfOhHrdEn7Ss4T3DVnPA/VWA9v18Tn3fe3+2Qpn9ucvctIal45KK3dY+HBwFZYvBw=="></enclosure>
+      </sparkle:deltas>
+    </item>
     <item>
       <title>Orbit 2026.11.6.0149</title>
       <pubDate>Fri, 06 Nov 2026 01:49:00 +0000</pubDate>
@@ -129,22 +143,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610311933/Orbit-202610311933-from-202610302240.delta" length="1915166" type="application/octet-stream" sparkle:deltaFrom="202610302240" sparkle:edSignature="rEtw6Hm4+S85gc60CWhzquo+tLLJJfQs9RksnRTguk+9RGUvu0/NQJiCo/AQ7qW3inGonDL95kRjyOOzSTrfDg=="></enclosure>
       </sparkle:deltas>
     </item>
-    <item>
-      <title>Orbit 2026.10.31.1303</title>
-      <pubDate>Sat, 31 Oct 2026 13:03:00 +0000</pubDate>
-      <sparkle:version>202610311303</sparkle:version>
-      <sparkle:shortVersionString>2026.10.31.1303</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202610311303</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610311303/Orbit-202610311303.zip" length="156550248" type="application/octet-stream" sparkle:edSignature="0wHbRFyfm2exxNSGISuR2DysrBwYu+Kymms0b3SVbFEcI1bMiGViJr2JlXrIof1GUmpbnFk42qeedec3jwgZAw=="></enclosure>
-      <sparkle:deltas>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610311303/Orbit-202610311303-from-202610310616.delta" length="1754262" type="application/octet-stream" sparkle:deltaFrom="202610310616" sparkle:edSignature="O+NYVJWbkWFLpaNPpSTIsrmPcdZlAnTPKclQ59djw+TdEo8Yc1LUTO4qmqIVJCW2JDFJIT7GU9GBqMf71rccBw=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610311303/Orbit-202610311303-from-202610302240.delta" length="1763262" type="application/octet-stream" sparkle:deltaFrom="202610302240" sparkle:edSignature="vXUL2mTgBiKYbvT0j1fsgZDdGZJj1vUTgZ4Jh+Ss+vV4Fv9i0i++sIRHrmZZ+Fz3NK8MpkqmfBRyVdVg0Y9rCQ=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202610311303/Orbit-202610311303-from-202610302044.delta" length="1799486" type="application/octet-stream" sparkle:deltaFrom="202610302044" sparkle:edSignature="3tDYLlsySeKhOouDJo517JHXT+cAwJ6LqFYw9C2IOwGVgzOkTJCyQV9tcBZG1syCK07udNXD9XXSnET5NWTKDA=="></enclosure>
-      </sparkle:deltas>
-    </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: rT1o31wiCtmQE3nizSGcDY6DbvPAcnkN9wXuAgkM1uynTYfcEvgxGmemqiKz8vv14z9zHgwihIJI6vG11ylNBg==
-length: 18896
+edSignature: GAPOIrWcBcyebh4NTq0T3gDefWv43pIqweIGvJl0Fwv7zd5URXvaD1RZujNz4aolx1uGCPC+h7AUE14tyNwWAQ==
+length: 18951
 -->
