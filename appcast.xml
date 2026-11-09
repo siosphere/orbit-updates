@@ -4,16 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Orbit updates</title>
     <item>
+      <title>Orbit 2026.11.9.0111</title>
+      <pubDate>Mon, 09 Nov 2026 01:11:00 +0000</pubDate>
+      <sparkle:version>202611090111</sparkle:version>
+      <sparkle:shortVersionString>2026.11.9.0111</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611090111</sparkle:releaseNotesLink>
+      <orbit:note>Small fixes and improvements.</orbit:note>
+      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611090111/Orbit-202611090111.zip" length="160254657" type="application/octet-stream" sparkle:edSignature="ckbkqlB2mmyOvbzeKNR+UdgQdDycAfdbeziQT4k1rB38rCgCmKjaXZlchxDR0f3266fqXuFNWkDzHyM12WeTCA=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611090111/Orbit-202611090111-from-202611081955.delta" length="2273922" type="application/octet-stream" sparkle:deltaFrom="202611081955" sparkle:edSignature="6y1p4i5OQwoomoaJYIMl6wUjYU+VbNmvtJUybrWp0ZNOSze58gK0T8bMJfVm3XkXbeiXLB9x+tsX2/vtWN6FCQ=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611090111/Orbit-202611090111-from-202611081351.delta" length="2316262" type="application/octet-stream" sparkle:deltaFrom="202611081351" sparkle:edSignature="D99o65cD/Kkm5NnK5DdbyX5Aws39SGgX8+kstMUbtRSCtBuTHQKCYKbNRyo9q3LWfxMBCip4XL5dJg5cDqbBDw=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611090111/Orbit-202611090111-from-202611080640.delta" length="2393598" type="application/octet-stream" sparkle:deltaFrom="202611080640" sparkle:edSignature="Lrh5GDso7ZEBfxGQ+O3TzxPhzZYeBnilvWIE8Bjjux0t3YVatG5ScoRdDZ1kIrdAlKUIV4OjCfPkDCacggZwCw=="></enclosure>
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Orbit 2026.11.8.1955</title>
       <pubDate>Sun, 08 Nov 2026 19:55:00 +0000</pubDate>
       <sparkle:version>202611081955</sparkle:version>
       <sparkle:shortVersionString>2026.11.8.1955</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611081955</sparkle:releaseNotesLink>
-      <orbit:note>Windows: create a new space, see the sidebar slide on switch, and swipe between spaces with a touchpad.</orbit:note>
-      <orbit:note>The Windows menu now includes commands for reopening closed tabs, switching tabs, pinning, and reloading pages.</orbit:note>
-      <orbit:note>Windows sidebar now matches Mac: hover close buttons, space name labels, a Clear button, and width stays the same in every window.</orbit:note>
-      <orbit:note>Web pages can no longer open internal diagnostic pages.</orbit:note>
       <orbit:note>The Ctrl+Tab tab switcher now appears centered over the page instead of pinned to the left edge.</orbit:note>
       <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611081955/Orbit-202611081955.zip" length="160300563" type="application/octet-stream" sparkle:edSignature="4+cXmTnW5T0gBYJQGucpwX+/Z8mefUIaNfRCRfgEDYjyy3QqNHCJbLVKVB4RF01Qkhz/fDqZGEdD8U+DgfY/BQ=="></enclosure>
       <sparkle:deltas>
@@ -29,8 +40,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <sparkle:shortVersionString>2026.11.8.1351</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611081351</sparkle:releaseNotesLink>
-      <orbit:note>You can now open private windows (Ctrl+Shift+N) that keep nothing on disk.</orbit:note>
-      <orbit:note>Pages on Windows now support zoom via the View menu and keyboard shortcuts, with a pill to reset.</orbit:note>
+      <orbit:note>Small fixes and improvements.</orbit:note>
       <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611081351/Orbit-202611081351.zip" length="160252628" type="application/octet-stream" sparkle:edSignature="ACaS06AZ8BbV4C7vrVPIKqpxDPBKeA4ecnlljj1sVl7u5CzH+Hoc4/rah5dJfyGCXA9/MCe18Q4Rj+aFpwzSDA=="></enclosure>
       <sparkle:deltas>
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611081351/Orbit-202611081351-from-202611080640.delta" length="1517062" type="application/octet-stream" sparkle:deltaFrom="202611080640" sparkle:edSignature="6dlCIysIrbNGBuLeryN9VaFiVt8vJLVPWBZGVVoB4WqANZYI9Xn5SqOVQOUo/d62t4ADK/B8hIe5VFAYDtySAg=="></enclosure>
@@ -45,8 +55,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <sparkle:shortVersionString>2026.11.8.0640</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611080640</sparkle:releaseNotesLink>
-      <orbit:note>Windows now shows speaker icons on tabs and a Now Playing card for background audio.</orbit:note>
-      <orbit:note>On Windows, resting the pointer at the window's left edge now reveals the hidden sidebar.</orbit:note>
+      <orbit:note>Small fixes and improvements.</orbit:note>
       <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611080640/Orbit-202611080640.zip" length="160285532" type="application/octet-stream" sparkle:edSignature="NG7iNP1+hP37FpMzj3nWYebwWX50LVUDybHhzhjOrFzGDNP75kRnADykIyvNguPqV1fJSy6pfQVSkuvKPH8IDw=="></enclosure>
       <sparkle:deltas>
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611080640/Orbit-202611080640-from-202611080615.delta" length="1417338" type="application/octet-stream" sparkle:deltaFrom="202611080615" sparkle:edSignature="4Pee6uFRP2TCY+Im8NQC/Ac3vBP9NeYByewSHAa1jvLnkJEtrGIvsyWjO5SCq9Umr9llpBdZxsV1/jm77gsvBA=="></enclosure>
@@ -61,17 +70,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <sparkle:shortVersionString>2026.11.8.0615</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611080615</sparkle:releaseNotesLink>
-      <orbit:note>Ctrl+T, New Tab, and Ctrl+L now open a command bar on Windows.</orbit:note>
       <orbit:note>The old welcome heading and buttons now fully disappear before the profile cards slide in.</orbit:note>
-      <orbit:note>Windows now has the address pill and Find in Page (Ctrl+F).</orbit:note>
-      <orbit:note>Your sign-in tokens and sync key are now stored in Windows Credential Manager instead of plain files.</orbit:note>
-      <orbit:note>Opening a link while Orbit is running now adds a tab instead of starting a second instance.</orbit:note>
-      <orbit:note>You can now set Orbit as your default browser from the menu, and uninstalling removes that setting.</orbit:note>
-      <orbit:note>Downloads from the web now save to your Downloads folder, with a panel to track and cancel them.</orbit:note>
-      <orbit:note>Windows now has a Settings window where you can turn sync on, join, or off.</orbit:note>
       <orbit:note>File ▸ Import from Browser… and Import from Arc… now show a step-by-step card instead of a picker with checkboxes.</orbit:note>
       <orbit:note>Chromium's flags page (View ▸ Developer ▸ Chromium Flags, or chrome://flags) now opens in Orbit, and its Relaunch button restarts Orbit to apply them.</orbit:note>
-      <orbit:note>…and 1 more change</orbit:note>
       <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611080615/Orbit-202611080615.zip" length="160243243" type="application/octet-stream" sparkle:edSignature="iSvHsMC7jWlS2xjgt+iyC+oB7LwChPcd3ArzxT5MxlNoO50c6yPrnRu233g3GnCKbZZSmMyZxtMEETXAQPNCDA=="></enclosure>
       <sparkle:deltas>
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611080615/Orbit-202611080615-from-202611072215.delta" length="6393026" type="application/octet-stream" sparkle:deltaFrom="202611072215" sparkle:edSignature="7WhnLOqa06/CiDVstz2003G2b/rgVaqUpaT40WmXsEG6RJZ6JJEtrrranLAA9tVLretFbahynOBdG7McwAKPAw=="></enclosure>
@@ -93,10 +94,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <orbit:note>Dragging a file over the app no longer splits the window.</orbit:note>
       <orbit:note>Chromium flags are now accessible from the Developer menu, with a relaunch prompt after changes.</orbit:note>
       <orbit:note>Quick switcher rows now show the site's real icon instead of a grey globe placeholder.</orbit:note>
-      <orbit:note>After updating, a sidebar card shows release notes, and Help ▸ What's New opens the full changelog.</orbit:note>
       <orbit:note>An empty command bar now lists this window's recently visited tabs, newest first, so you can jump back.</orbit:note>
-      <orbit:note>Background saves that were silently dropped on Windows due to a brief file lock now complete successfully.</orbit:note>
-      <orbit:note>…and 5 more changes</orbit:note>
+      <orbit:note>Picking a site scope in the command bar now triggers a short animation and shows that site's colours.</orbit:note>
+      <orbit:note>The version number in the update card no longer gets cut off with an ellipsis.</orbit:note>
+      <orbit:note>…and 2 more changes</orbit:note>
       <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611072215/Orbit-202611072215.zip" length="160250504" type="application/octet-stream" sparkle:edSignature="TRPFtYppby/JagWKpwLzMiUmVCT59wy1t6WAOf4aWFVV6bh5LDMaIMOVVaeQ0XVdAsmJSDll2pZaQ+PfW/WnAg=="></enclosure>
       <sparkle:deltas>
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611072215/Orbit-202611072215-from-202611071750.delta" length="2661074" type="application/octet-stream" sparkle:deltaFrom="202611071750" sparkle:edSignature="eNnZkyZZHm93U0T9acUh4vcXV13nnUvfD6d1MsS0rgdcjEqGJ2N1dnQKwOgdYgVF3+pEepKrMQU//KTXvd24Dw=="></enclosure>
@@ -111,7 +112,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <sparkle:shortVersionString>2026.11.7.1750</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611071750</sparkle:releaseNotesLink>
-      <orbit:note>Windows builds now show a restart-to-update prompt in the sidebar when a new version is available.</orbit:note>
       <orbit:note>The space icon picker now highlights the icon actually under your cursor.</orbit:note>
       <orbit:note>Google and Microsoft account options and the Profiles tab are now hidden by default.</orbit:note>
       <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611071750/Orbit-202611071750.zip" length="160058427" type="application/octet-stream" sparkle:edSignature="gxVpM+izGUSW3YTedLjeEO5aPEQqdhkMHXLRySY4YY9mQXhiH+M03rYKH3tAy0ywQGx9KjU6G32kUBlcKal3Dw=="></enclosure>
@@ -128,7 +128,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <sparkle:shortVersionString>2026.11.7.1039</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611071039</sparkle:releaseNotesLink>
-      <orbit:note>Web pages on Windows now respond to Back, Forward, and Reload, and open popups as tabs.</orbit:note>
+      <orbit:note>Small fixes and improvements.</orbit:note>
       <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611071039/Orbit-202611071039.zip" length="160004866" type="application/octet-stream" sparkle:edSignature="kzpoUcHiUYrJasyQ34fAkPMATzGlQO5kUfcX3IYRSpEwSDy5F0rbKuQmrtUeJsc54zKdC9s/W++S+IXc0BHnBA=="></enclosure>
       <sparkle:deltas>
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611071039/Orbit-202611071039-from-202611070745.delta" length="1094094" type="application/octet-stream" sparkle:deltaFrom="202611070745" sparkle:edSignature="cRLDPvX9/XvcPhEy0FijyyGZNRw6ARPq6fLX4NHNZQLeZnA3zcQqVYgK8AakKYkDnQXXqgIuKGOVJYx4RMvFDQ=="></enclosure>
@@ -166,23 +166,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611070710/Orbit-202611070710-from-202611070127.delta" length="2567750" type="application/octet-stream" sparkle:deltaFrom="202611070127" sparkle:edSignature="UT7WSsYJtW/Ub30Rc03RiX8yj9te3FVEF1VQTNvNqMJA++KjuFiKdPxp7AGsb1kvmPehJJt8yQtlLVo5bixLDA=="></enclosure>
       </sparkle:deltas>
     </item>
-    <item>
-      <title>Orbit 2026.11.7.0628</title>
-      <pubDate>Sat, 07 Nov 2026 06:28:00 +0000</pubDate>
-      <sparkle:version>202611070628</sparkle:version>
-      <sparkle:shortVersionString>2026.11.7.0628</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611070628</sparkle:releaseNotesLink>
-      <orbit:note>Small fixes and improvements.</orbit:note>
-      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611070628/Orbit-202611070628.zip" length="160006709" type="application/octet-stream" sparkle:edSignature="edmP98mW+BrjcCRULlnZYXGCi1JaLD8Lm4EuoRQUTC6S/vQlc3vuj261D1vEdkp6CuYG/5OCxp4m6VPWKZc/AQ=="></enclosure>
-      <sparkle:deltas>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611070628/Orbit-202611070628-from-202611070451.delta" length="62358" type="application/octet-stream" sparkle:deltaFrom="202611070451" sparkle:edSignature="fesql/hBZMbiKSUJoeZ7rznw484L11FcYKZsfXBfR5XS7EnXqNcB3PsnvVTPzeoVtNWsuPIHZ85uXZktyBQnCQ=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611070628/Orbit-202611070628-from-202611070127.delta" length="2561574" type="application/octet-stream" sparkle:deltaFrom="202611070127" sparkle:edSignature="w9Lz0UWkwnWaURbNU0h5JS7St9zxu3peFHXV2dYH5seQxFzsJDE36bw7EAj8R3juv1WwTN5G8DWAFW9iDKMSBQ=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611070628/Orbit-202611070628-from-202611061939.delta" length="2735530" type="application/octet-stream" sparkle:deltaFrom="202611061939" sparkle:edSignature="oBWl7ILVu/lOdQp6tFXQJZHg5uRYwDBum4TUtQmTkylqoKGkG/mxCxj21QxA7lQiHWvi/HStKhHuidWM6BGEDg=="></enclosure>
-      </sparkle:deltas>
-    </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: GXrADykuYvUm86gBQqW9KSd3hLEMlkOV5/AawEZONxDti/v/SYM781A0bLNSRpUXftdSSkGatJAfgkVa1RD/DQ==
-length: 23274
+edSignature: bpplQhvlr5/1M9uzQYve2Wn+VAOkbQX5GjqjIMevRqS4eSGvZ5gvf7nSO5kiXTLMRJUaAMz22eGWkbXNbxdOAw==
+length: 21324
 -->
