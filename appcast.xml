@@ -4,6 +4,31 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Orbit updates</title>
     <item>
+      <title>Orbit 2026.11.15.1604</title>
+      <pubDate>Sun, 15 Nov 2026 16:04:00 +0000</pubDate>
+      <sparkle:version>202611151604</sparkle:version>
+      <sparkle:shortVersionString>2026.11.15.1604</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611151604</sparkle:releaseNotesLink>
+      <orbit:note>You can now see icons next to commands in the Windows command bar, plus favicons on page results and a Tab key badge on the site search row.</orbit:note>
+      <orbit:note>Right-clicking an image, link, selected text or text field now shows Inspect at the bottom of the menu.</orbit:note>
+      <orbit:note>Typing the start of a site you've visited now completes its home page, even when busy article pages from that site rank higher.</orbit:note>
+      <orbit:note>The Windows space bar now has larger, hover-responsive buttons with dots, icons and emoji sized like the Mac's, and Downloads and Archive sit at the left.</orbit:note>
+      <orbit:note>Creating a new live folder, or turning a folder into one, no longer freezes the app for a moment.</orbit:note>
+      <orbit:note>Collapsing a section, folder or space in the sidebar now slides each row's title along with its icon instead of jumping.</orbit:note>
+      <orbit:note>You can now rename and delete profiles, move spaces between profiles on the Mac, and deleting a profile removes its logins and data.</orbit:note>
+      <orbit:note>Searching the command bar for "connect google" no longer shows unrelated rows like Changelog and GitHub token sign-in.</orbit:note>
+      <orbit:note>You can now copy an entire scrollable page to the clipboard as one image with Capture Full Page, using View ▸ Capture, ⌘⌥2, or the command bar.</orbit:note>
+      <orbit:note>VoiceOver can now reach the capture bar and its Copy, Cancel and Add to Easel buttons when you select a page region.</orbit:note>
+      <orbit:chromium>156.0.8078.88</orbit:chromium>
+      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611151604/Orbit-202611151604.zip" length="161137143" type="application/octet-stream" sparkle:edSignature="Ng0nGdZTpfS5U7y9FKLguVOu2mC6KOa5SedVXT1n9cOxrYnBToZTc7aKhu7/Yis1h0nOOaJBeRhGkyQoYbB/BA=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611151604/Orbit-202611151604-from-202611150708.delta" length="2487178" type="application/octet-stream" sparkle:deltaFrom="202611150708" sparkle:edSignature="17AB36qHoF2Gw5lXBMDesx6y6IdzdzEQOv/WYM+frV151GA7cZqTNjLxBJ0oHM3ZOxB6LZqEA+Gtod/trZgJCQ=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611151604/Orbit-202611151604-from-202611142243.delta" length="2529738" type="application/octet-stream" sparkle:deltaFrom="202611142243" sparkle:edSignature="cYgJrqZWy6eyTiM+qhPssahZUenCb2OC4b4A8gXO5ILPDweO2dyKkFPAE1QhuSvSVm76U03K+Cq/6SIFuG9uCA=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611151604/Orbit-202611151604-from-202611141828.delta" length="2528690" type="application/octet-stream" sparkle:deltaFrom="202611141828" sparkle:edSignature="GG0qNM9U+XXUL9r9dk+x06do3GENO5mKWkuTuuMp6T1qHx5maS3s5WkKDg1RGxcjilkdPpeIBBbVWFbPkBkmAg=="></enclosure>
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Orbit 2026.11.15.0708</title>
       <pubDate>Sun, 15 Nov 2026 07:08:00 +0000</pubDate>
       <sparkle:version>202611150708</sparkle:version>
@@ -161,27 +186,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611121147/Orbit-202611121147-from-202611110540.delta" length="2031778" type="application/octet-stream" sparkle:deltaFrom="202611110540" sparkle:edSignature="UlFo1xkM10lOu9sUHmwGN1Hs0DeaLoVoVk+ZCYTcCzRB2HzrrNPClGasBvG8GGpwFCCENcyK0kkOeOvO6k7OAA=="></enclosure>
       </sparkle:deltas>
     </item>
-    <item>
-      <title>Orbit 2026.11.12.0058</title>
-      <pubDate>Thu, 12 Nov 2026 00:58:00 +0000</pubDate>
-      <sparkle:version>202611120058</sparkle:version>
-      <sparkle:shortVersionString>2026.11.12.0058</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611120058</sparkle:releaseNotesLink>
-      <orbit:note>Right-click menus with Copy and Paste work again in extension popups and Chromium-managed popups.</orbit:note>
-      <orbit:note>Tabs can now be reordered within a split, and dropping a tab places it on the side you aim.</orbit:note>
-      <orbit:note>You can now close a single page from a split by hovering its sidebar segment.</orbit:note>
-      <orbit:note>Search burst on Tab is now a soft gradient halo that follows the card as the list shrinks.</orbit:note>
-      <orbit:chromium>156.0.8078.88</orbit:chromium>
-      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611120058/Orbit-202611120058.zip" length="160640260" type="application/octet-stream" sparkle:edSignature="pQkO1o/Jg4z434CGeZ2pl3SWAV989OPyEBUZ4v5l94jQazXkuWFTVh2FRYSgdKWiS6i7TBiBOnj6rGfK0JE+DQ=="></enclosure>
-      <sparkle:deltas>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611120058/Orbit-202611120058-from-202611110703.delta" length="2224174" type="application/octet-stream" sparkle:deltaFrom="202611110703" sparkle:edSignature="3XAa2S50Utnb5J/4OAGW3GwdP8uo4mCcX0HkaQhpfvIxyi4ckVcv5tLWmcP+FknUpsNO8Ofw6EZwtfxG9kPpCw=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611120058/Orbit-202611120058-from-202611110540.delta" length="2230562" type="application/octet-stream" sparkle:deltaFrom="202611110540" sparkle:edSignature="IjhdiQoLDNz5YsOqm8ZAP3kWqcPTrXpAaDAioNbAlPSmT6dDCxCi2TihBUc2ab1UfOvPgPCm6Ll89sU9aZQZAg=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611120058/Orbit-202611120058-from-202611100742.delta" length="2957326" type="application/octet-stream" sparkle:deltaFrom="202611100742" sparkle:edSignature="or4+Kj8vyPkCAqzfYSTf7jFVezE+oFaObBO0mAq2DRvzFpagLAiL+q3DtAYmtSmhJbDkEfpUd0CJWirFj32dDA=="></enclosure>
-      </sparkle:deltas>
-    </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: uDZfiDyiRQp/5VHrVqUC/QdWAW4tYYM5uPWmeAmSaboUP6LLo37hYk+3FTqswM/f16mGW9tkMf4FmMqoppEwCA==
-length: 22724
+edSignature: l/yV6J1O2iXOKqvujCLNabquo56rNAloN0pwz/jsOsHyHupWu+RvfrosnzCTk4DoKBe+UosFTomYVtQslwNlDQ==
+length: 23817
 -->
