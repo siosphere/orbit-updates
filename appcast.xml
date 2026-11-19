@@ -4,6 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Orbit updates</title>
     <item>
+      <title>Orbit 2026.11.19.0439</title>
+      <pubDate>Thu, 19 Nov 2026 04:39:00 +0000</pubDate>
+      <sparkle:version>202611190439</sparkle:version>
+      <sparkle:shortVersionString>2026.11.19.0439</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611190439</sparkle:releaseNotesLink>
+      <orbit:note>Mac: page full screen (video players, `requestFullscreen()`) takes the whole screen</orbit:note>
+      <orbit:chromium>156.0.8078.88</orbit:chromium>
+      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611190439/Orbit-202611190439.zip" length="161588150" type="application/octet-stream" sparkle:edSignature="Qsb40As/B46Xa0mtMxSxkiKB59O/hyyFF/haOU1GoHOFVZqYgpupRyuZQ83UxzmBDQuKc9DhswEjJRSoq4BzDQ=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611190439/Orbit-202611190439-from-202611190246.delta" length="2642250" type="application/octet-stream" sparkle:deltaFrom="202611190246" sparkle:edSignature="fwvgXfHU4QKmwaXV57UdpRgr+WCpWJujwMvQr5ddUHBpvSvTYo15o11ucVjmSyhSEa9pbJ4ZCeUygbCLLgHNDg=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611190439/Orbit-202611190439-from-202611182052.delta" length="2651482" type="application/octet-stream" sparkle:deltaFrom="202611182052" sparkle:edSignature="wLTLrTRITCmcWMMmwPeW6KWDMTqBCis3JF5ELOI8kggB/nN4xUpjrZWmxnDEVPBgOxrhMFOpzx+qfu0PrjOKAw=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611190439/Orbit-202611190439-from-202611181212.delta" length="2894986" type="application/octet-stream" sparkle:deltaFrom="202611181212" sparkle:edSignature="5wYpfusE76ZW0OXTYHJv2EAEe7u+P5M4g/inHbo9/OWh9pf58cI8mUvkyyMw1VXxV95JrkXp29trkrOl0TU7BQ=="></enclosure>
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Orbit 2026.11.19.0246</title>
       <pubDate>Thu, 19 Nov 2026 02:46:00 +0000</pubDate>
       <sparkle:version>202611190246</sparkle:version>
@@ -153,33 +169,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611151633/Orbit-202611151633-from-202611142243.delta" length="2579094" type="application/octet-stream" sparkle:deltaFrom="202611142243" sparkle:edSignature="zy09n/KCVAAWk26atgNab1vbMx6vi3Xd8jh23TYEOp6Y15fG3a07apT6PcIUKUhlW8TwwVk9PwaoEEMvOJ2pCQ=="></enclosure>
       </sparkle:deltas>
     </item>
-    <item>
-      <title>Orbit 2026.11.15.1604</title>
-      <pubDate>Sun, 15 Nov 2026 16:04:00 +0000</pubDate>
-      <sparkle:version>202611151604</sparkle:version>
-      <sparkle:shortVersionString>2026.11.15.1604</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611151604</sparkle:releaseNotesLink>
-      <orbit:note>You can now see icons next to commands in the Windows command bar, plus favicons on page results and a Tab key badge on the site search row.</orbit:note>
-      <orbit:note>Right-clicking an image, link, selected text or text field now shows Inspect at the bottom of the menu.</orbit:note>
-      <orbit:note>Typing the start of a site you've visited now completes its home page, even when busy article pages from that site rank higher.</orbit:note>
-      <orbit:note>The Windows space bar now has larger, hover-responsive buttons with dots, icons and emoji sized like the Mac's, and Downloads and Archive sit at the left.</orbit:note>
-      <orbit:note>Creating a new live folder, or turning a folder into one, no longer freezes the app for a moment.</orbit:note>
-      <orbit:note>Collapsing a section, folder or space in the sidebar now slides each row's title along with its icon instead of jumping.</orbit:note>
-      <orbit:note>You can now rename and delete profiles, move spaces between profiles on the Mac, and deleting a profile removes its logins and data.</orbit:note>
-      <orbit:note>Searching the command bar for "connect google" no longer shows unrelated rows like Changelog and GitHub token sign-in.</orbit:note>
-      <orbit:note>You can now copy an entire scrollable page to the clipboard as one image with Capture Full Page, using View ▸ Capture, ⌘⌥2, or the command bar.</orbit:note>
-      <orbit:note>VoiceOver can now reach the capture bar and its Copy, Cancel and Add to Easel buttons when you select a page region.</orbit:note>
-      <orbit:chromium>156.0.8078.88</orbit:chromium>
-      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611151604/Orbit-202611151604.zip" length="161137143" type="application/octet-stream" sparkle:edSignature="Ng0nGdZTpfS5U7y9FKLguVOu2mC6KOa5SedVXT1n9cOxrYnBToZTc7aKhu7/Yis1h0nOOaJBeRhGkyQoYbB/BA=="></enclosure>
-      <sparkle:deltas>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611151604/Orbit-202611151604-from-202611150708.delta" length="2487178" type="application/octet-stream" sparkle:deltaFrom="202611150708" sparkle:edSignature="17AB36qHoF2Gw5lXBMDesx6y6IdzdzEQOv/WYM+frV151GA7cZqTNjLxBJ0oHM3ZOxB6LZqEA+Gtod/trZgJCQ=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611151604/Orbit-202611151604-from-202611142243.delta" length="2529738" type="application/octet-stream" sparkle:deltaFrom="202611142243" sparkle:edSignature="cYgJrqZWy6eyTiM+qhPssahZUenCb2OC4b4A8gXO5ILPDweO2dyKkFPAE1QhuSvSVm76U03K+Cq/6SIFuG9uCA=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611151604/Orbit-202611151604-from-202611141828.delta" length="2528690" type="application/octet-stream" sparkle:deltaFrom="202611141828" sparkle:edSignature="GG0qNM9U+XXUL9r9dk+x06do3GENO5mKWkuTuuMp6T1qHx5maS3s5WkKDg1RGxcjilkdPpeIBBbVWFbPkBkmAg=="></enclosure>
-      </sparkle:deltas>
-    </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ri6ZWy1h2VS69pY7cJK27w/X8Vm9C4eRapx9e33nzOL7wGoq2Wm0gNlFnKllJ7Xypi+IclbOv9PFXyHvHJ45Bw==
-length: 23106
+edSignature: sJKW08cZ9vQsSiX+wQUpB043R8d2CXLE4SU9BXA8iUKMschPQtjaGgkkZwJ1nwbUqvToBusdIlXFTt1IoM9XBw==
+length: 21645
 -->
