@@ -4,16 +4,33 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Orbit updates</title>
     <item>
+      <title>Orbit 2026.11.24.1946</title>
+      <pubDate>Tue, 24 Nov 2026 19:46:00 +0000</pubDate>
+      <sparkle:version>202611241946</sparkle:version>
+      <sparkle:shortVersionString>2026.11.24.1946</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611241946</sparkle:releaseNotesLink>
+      <orbit:note scope="all">Extensions like Bitwarden can now see pages opened in the mini browser, including their URL, tab events and focus changes.</orbit:note>
+      <orbit:note scope="all">Bitwarden now shows logins for the site open in the mini browser (Peek), not the tab behind it.</orbit:note>
+      <orbit:note scope="all">The mini browser's "Open in" button now names your current space and has a menu for moving the page to any other space.</orbit:note>
+      <orbit:note>Images on Reddit now open in their viewer instead of bouncing back to the post when you open links in a new tab or Peek.</orbit:note>
+      <orbit:chromium>156.0.8078.100</orbit:chromium>
+      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611241946/Orbit-202611241946.zip" length="161890828" type="application/octet-stream" sparkle:edSignature="aFUzbLom83R3W+0lo5OwOnJoCKiU4HVXVKTswESff0CaQLf4pJICp7ThMD9wl47o7XQd38BnNRzgXFNJi0U3Bg=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611241946/Orbit-202611241946-from-202611231919.delta" length="8393690" type="application/octet-stream" sparkle:deltaFrom="202611231919" sparkle:edSignature="F3JAgCrQwY7rZAMlHSKxZd2X770Lrf3UyrQt0cMaxzuGrm6zstBdiZqKU1rjjPIa8wVfUY4UvMfKRCzB/c6nDA=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611241946/Orbit-202611241946-from-202611220132.delta" length="9662150" type="application/octet-stream" sparkle:deltaFrom="202611220132" sparkle:edSignature="YSNPVeY3CHu9Q9GKydV/4t4Fej9Vk+TwDmvcrH0K63G7Z617tEu+SxkYmLFlV65p4LSC/0M7r3Rw6EbD54YnAQ=="></enclosure>
+        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611241946/Orbit-202611241946-from-202611211634.delta" length="9530334" type="application/octet-stream" sparkle:deltaFrom="202611211634" sparkle:edSignature="L3bEccG3q2sTcMo+uJOSHHddxUE5edHThrKe3xxYe6rGhh+zX8bNhNmlpOfz52Psf61G9l1r3gAHT3wNR37kCQ=="></enclosure>
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Orbit 2026.11.23.1919</title>
       <pubDate>Mon, 23 Nov 2026 19:19:00 +0000</pubDate>
       <sparkle:version>202611231919</sparkle:version>
       <sparkle:shortVersionString>2026.11.23.1919</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611231919</sparkle:releaseNotesLink>
-      <orbit:note scope="all">Opening a favorite or pinned tab from the sidebar on iOS now reliably brings up the browser, and Esc exits full-screen pages on Mac.</orbit:note>
-      <orbit:note scope="all">Duplicating a favorite or pinned card on iOS now places the copy right after the original without reordering your other cards.</orbit:note>
-      <orbit:note scope="all">See your open tabs from your Mac on your iPhone, and the reverse, in a "From" list; each device keeps its own tabs.</orbit:note>
       <orbit:note>On Mac, you can drag spaces to reorder them and move tabs, folders, or split rows to another space by menu or by dropping on its icon.</orbit:note>
+      <orbit:note>Opening a favorite or pinned tab from the sidebar on iOS now reliably brings up the browser, and Esc exits full-screen pages on Mac.</orbit:note>
       <orbit:note>Returning a video from the floating player to its tab no longer causes the app to briefly freeze or stutter.</orbit:note>
       <orbit:note>Clearing browsing history now also empties Reopen Closed Tab, so cleared pages can't be brought back with the keyboard shortcut.</orbit:note>
       <orbit:chromium>156.0.8078.100</orbit:chromium>
@@ -31,7 +48,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <sparkle:shortVersionString>2026.11.22.0132</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611220132</sparkle:releaseNotesLink>
-      <orbit:note scope="all">Windows app spacing, corners, borders, text sizes and colors now match the Mac app in downloads, boost editor, hex field and settings.</orbit:note>
+      <orbit:note>Small fixes and improvements.</orbit:note>
       <orbit:chromium>156.0.8078.100</orbit:chromium>
       <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611220132/Orbit-202611220132.zip" length="161598378" type="application/octet-stream" sparkle:edSignature="sd96SeW2MP8qg/kApPr3btywBBe91iVfIupZK5enJDUnVnz/kkVbSnaOoXW0TPpvT6BX4HNc+pxKDMfxBoHYDg=="></enclosure>
       <sparkle:deltas>
@@ -153,24 +170,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611190439/Orbit-202611190439-from-202611181212.delta" length="2894986" type="application/octet-stream" sparkle:deltaFrom="202611181212" sparkle:edSignature="5wYpfusE76ZW0OXTYHJv2EAEe7u+P5M4g/inHbo9/OWh9pf58cI8mUvkyyMw1VXxV95JrkXp29trkrOl0TU7BQ=="></enclosure>
       </sparkle:deltas>
     </item>
-    <item>
-      <title>Orbit 2026.11.19.0246</title>
-      <pubDate>Thu, 19 Nov 2026 02:46:00 +0000</pubDate>
-      <sparkle:version>202611190246</sparkle:version>
-      <sparkle:shortVersionString>2026.11.19.0246</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/v202611190246</sparkle:releaseNotesLink>
-      <orbit:note>On Mac, Air Traffic Control now highlights the tab it opens when routing a link to another space.</orbit:note>
-      <orbit:chromium>156.0.8078.88</orbit:chromium>
-      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611190246/Orbit-202611190246.zip" length="161426221" type="application/octet-stream" sparkle:edSignature="emXJ6I+BR3hOxQ3MGIofPmzXRD0HGzDHnDUEHKTk+0p4gx9eZgD0mX1arqSjz8aYn1hVrtcZReRKpDqQitmgBw=="></enclosure>
-      <sparkle:deltas>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611190246/Orbit-202611190246-from-202611182052.delta" length="501430" type="application/octet-stream" sparkle:deltaFrom="202611182052" sparkle:edSignature="hmyev3f7h1/ShQjJ9QDay70o0bK5lQBhCxHdNne/+ZUukn6OkG/lWV8Kn/UnRN/Qnj0dSdl2MF/000sCHtTfAA=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611190246/Orbit-202611190246-from-202611181212.delta" length="1987162" type="application/octet-stream" sparkle:deltaFrom="202611181212" sparkle:edSignature="0t39He5dLIc61kxm57PQRNoEKyrBRnxNnqNe+J7Wnm/ePsA1mLhDwKx/Od3Z6ELrPz3osrrxhs9KmP/TsZ2OBw=="></enclosure>
-        <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/v202611190246/Orbit-202611190246-from-202611180117.delta" length="2176270" type="application/octet-stream" sparkle:deltaFrom="202611180117" sparkle:edSignature="Sw8GpH3beMmO7YpIAn6Iz06miDPDrMuSEU/IVFUDy6usDoZau7fqk+ZT0R6b9/WpFSh1MFUzvqMZMs+1MAVNDg=="></enclosure>
-      </sparkle:deltas>
-    </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: n/CwkbEMunZaiBAZj2XfPQ9d0aSF8l5etG+wiP8JoSZaHqdPURuf5rmaojaaXUqojqjgQ2ZPVLipeTpdycqfDg==
-length: 21545
+edSignature: 3yzOPJ0rRZG2elvi+YhiPEFMigEf5EFdBE+frhUcTiESfvLh7iFV3AqW/fiw7GF/UAzYmLecyFn4w6w8GpEeBA==
+length: 21580
 -->
