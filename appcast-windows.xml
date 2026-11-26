@@ -4,6 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Orbit updates</title>
     <item>
+      <title>Orbit 2026.11.26.0345 — Windows preview (unsigned)</title>
+      <pubDate>Thu, 26 Nov 2026 03:45:00 +0000</pubDate>
+      <sparkle:version>202611260345</sparkle:version>
+      <sparkle:shortVersionString>2026.11.26.0345</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0.19041</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/siosphere/orbit-updates/releases/tag/windows-v202611260345</sparkle:releaseNotesLink>
+      <orbit:note>Small fixes and improvements.</orbit:note>
+      <orbit:chromium>156.0.8078.100</orbit:chromium>
+      <enclosure url="https://github.com/siosphere/orbit-updates/releases/download/windows-v202611260345/Orbit-2026.11.26.0345-windows-x64-setup.exe" length="149729753" type="application/octet-stream" sparkle:edSignature="2JghebCqo2VJ1EiEhYzisDtEFU0C59BLWGH25/yfo+9eMUwXawcBDEaZXrbqYSdHToyWUwuUUOW8jXX3uQ5ZAQ==" sparkle:os="windows-x64"></enclosure>
+    </item>
+    <item>
       <title>Orbit 2026.11.25.1933 — Windows preview (unsigned)</title>
       <pubDate>Wed, 25 Nov 2026 19:33:00 +0000</pubDate>
       <sparkle:version>202611251933</sparkle:version>
@@ -50,6 +61,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0qMRv6+xbjgQ52rNLSELOiMLFdcN34yoivTdASJhK9icy0gOHFZO4OC81aGO8oBZ6g9BKAO+x51J54DyXZRHCQ==
-length: 4424
+edSignature: ZmRSUG0QVYDymUWLsgIgqwf7+tUjgrVmJEYbsvzI+vg0RTOtPzJW+OMBimHUcowqKKzBICsDxnFaUgrUA+NMDQ==
+length: 5391
 -->
